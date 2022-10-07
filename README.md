@@ -75,4 +75,17 @@
 ![image](https://user-images.githubusercontent.com/85889196/194049119-b11fa2ef-af1e-4f50-9aba-53c3ed964e86.png)
 
 
+# HW-5
+
+### 1-)
+
+![image](https://user-images.githubusercontent.com/85889196/194573341-03e58085-b492-4a8b-8034-d8d5564cbe1d.png)
+
+### 2-)
+
+![image](https://user-images.githubusercontent.com/85889196/194573876-1f98ab1e-e300-4345-88c5-8890cf4fe940.png)
+
+### 3-)
+
+![image](https://user-images.githubusercontent.com/85889196/194574258-56067f4c-b17e-452f-a9e0-82b2110aa7d0.png)
 
