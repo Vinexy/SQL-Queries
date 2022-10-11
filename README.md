@@ -106,3 +106,23 @@
 ### 4-)
 
 ![image](https://user-images.githubusercontent.com/85889196/194705254-5acd3085-659e-4be1-b358-d59317ad80bb.png)
+
+# HW-7
+
+### 1-)
+
+![image](https://user-images.githubusercontent.com/85889196/195067662-172f9f65-f65f-4ad7-af29-ccae3f3bdc67.png)
+
+### 2-)
+
+![image](https://user-images.githubusercontent.com/85889196/195068963-0a25775d-e551-45b6-8fd3-413b49129ac4.png)
+
+### 3-)
+
+![image](https://user-images.githubusercontent.com/85889196/195069608-78fa4d4d-3bd1-4e8c-8aae-a7a39ecf7bc3.png)
+
+### 4-)
+
+![image](https://user-images.githubusercontent.com/85889196/195071652-fd6caafd-054e-41f2-bc90-da8dc86c2d42.png)
+
+
