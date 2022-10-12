@@ -125,4 +125,21 @@
 
 ![image](https://user-images.githubusercontent.com/85889196/195071652-fd6caafd-054e-41f2-bc90-da8dc86c2d42.png)
 
+# HW-8
+
+### 1-)
+
+![image](https://user-images.githubusercontent.com/85889196/195455899-d6c041d7-d0c3-4908-a81e-924ae618e09a.png)
+
+### 2-)
+
+![image](https://user-images.githubusercontent.com/85889196/195457279-97e9ff76-dfed-44ce-a81f-67f386721203.png)
+
+### 3-)
+
+![image](https://user-images.githubusercontent.com/85889196/195458417-48a2747f-a5fb-425a-b430-cd41f86bb0ce.png)
+
+### 4-)
+
+![image](https://user-images.githubusercontent.com/85889196/195458837-e8c514b1-d101-4202-a14f-a6cc19a13c06.png)
 
