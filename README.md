@@ -157,3 +157,18 @@
 
 ![image](https://user-images.githubusercontent.com/85889196/196155088-92839bd0-4b22-425e-9591-83d819d2d028.png)
 
+# HW-10
+
+### 1-)
+
+![image](https://user-images.githubusercontent.com/85889196/196202046-66e29581-6688-4f8a-9665-8a300b338bc6.png)
+
+### 2-)
+
+![image](https://user-images.githubusercontent.com/85889196/196202832-7a38284f-e69d-41a2-8eaf-f7eb4a688017.png)
+
+### 3-)
+
+![image](https://user-images.githubusercontent.com/85889196/196203716-50336ea4-179d-4106-9257-7a2d2214d64d.png)
+
+
