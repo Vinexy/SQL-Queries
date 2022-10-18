@@ -191,6 +191,23 @@
 
 ![image](https://user-images.githubusercontent.com/85889196/196430448-00ed13c0-f65c-424a-854d-25754fc5cba4.png)
 
+# HW-12
+
+### 1-)
+
+![image](https://user-images.githubusercontent.com/85889196/196508121-ec8ed6cd-9375-45ce-83c7-d9a70a8c2768.png)
+
+### 2-)
+
+![image](https://user-images.githubusercontent.com/85889196/196509615-1a97d0b6-217c-421b-9f1d-313611eee639.png)
+
+### 3-)
+
+![image](https://user-images.githubusercontent.com/85889196/196510933-507b6119-e651-4370-a1cf-095ec4f93b96.png)
+
+### 4-)
+
+![image](https://user-images.githubusercontent.com/85889196/196516265-6de38e0d-8797-4da4-a951-09bc22c5e594.png)
 
 
 
